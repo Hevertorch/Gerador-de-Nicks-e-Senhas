@@ -1,6 +1,6 @@
 - Gerador de Senhas e Nicknames
 
-Um projeto simples, direto ao ponto e útil de verdade 😎. Este repositório contém um gerador de senhas seguras e um gerador de nicknames criativos, desenvolvido como prática de lógica, organização de código e automação.
+Um projeto simples para estudo de html, css e js e como interagem entre si. Este repositório contém um gerador de senhas seguras e um gerador de nicknames criativos, desenvolvido como prática de lógica, organização de código e automação.
 
 A ideia aqui é facilitar a vida de quem precisa criar credenciais rapidamente — sem repetir senha123 pela milésima vez.
 
